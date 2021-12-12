@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Ionic Iconic Hello",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

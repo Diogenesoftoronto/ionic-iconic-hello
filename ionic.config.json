@@ -1,0 +1,8 @@
+{
+  "name": "Ionic Iconic Hello",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "2b1e1029"
+}
